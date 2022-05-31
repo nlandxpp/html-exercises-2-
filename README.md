@@ -1,2 +1,3 @@
 # html-exercises-2-
-html development 
+
+patika.dev html 2. websitesi tasarımı için gerekli ödev çalışmasıdır.
